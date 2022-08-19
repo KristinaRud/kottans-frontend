@@ -24,3 +24,26 @@
 </p>
 </details>
 
+<h3>Linux CLI, and HTTP</h3>
+<details><summary>CLICK ME</summary>
+<ol>
+  <li>
+    Новим для мене було - команди Linux CLI
+  </li>
+  <li>
+    Стосовно HTTP - все зрозуміло, відкриттям для мене було Гешування
+    </li>
+  <li>
+    Всі вивчені, на даному етапі, навички збираюся використовувати в майбутньому
+    </li>
+</ol>
+
+![alt-текст](/task_linux_cli/img1.jpg)
+
+![alt-текст](/task_linux_cli/img2.jpg)
+
+![alt-текст](/task_linux_cli/img3.jpg)
+
+![alt-текст](/task_linux_cli/img4.jpg)
+</p>
+</details>
