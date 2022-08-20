@@ -59,12 +59,12 @@
     </li>
 </ol>
 
-![alt-текст](/task_git_collaboration/img1.PNG)
+![alt-текст](/task_git_collaboration/img1.png)
 
-![alt-текст](/task_git_collaboration/img2.PNG)
+![alt-текст](/task_git_collaboration/img2.png)
 
-![alt-текст](/task_git_collaboration/img3.PNG)
+![alt-текст](/task_git_collaboration/img3.png)
 
-![alt-текст](/task_git_collaboration/img4.PNG)
+![alt-текст](/task_git_collaboration/img4.png)
 </p>
 </details>
