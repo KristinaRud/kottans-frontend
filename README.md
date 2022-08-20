@@ -47,3 +47,24 @@
 ![alt-текст](/task_linux_cli/img4.jpg)
 </p>
 </details>
+
+<h3>Git Collaboration</h3>
+<details><summary>CLICK ME</summary>
+<ol>
+  <li>
+    Новим для мене було - як взаємодіяти з GitHub, використовуйтання віддалені сховища, а також як і для чого використовувати rebase
+  </li>
+  <li>
+    Всі вивчені, на даному етапі, навички були корисними.
+    </li>
+</ol>
+
+![alt-текст](/task_git_collaboration/img1.PNG)
+
+![alt-текст](/task_git_collaboration/img2.PNG)
+
+![alt-текст](/task_git_collaboration/img3.PNG)
+
+![alt-текст](/task_git_collaboration/img4.PNG)
+</p>
+</details>
