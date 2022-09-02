@@ -68,3 +68,21 @@
 ![alt-текст](/task_git_collaboration/img4.png)
 </p>
 </details>
+
+<h3>Intro to HTML & CSS</h3>
+<details><summary>CLICK ME</summary>
+<ol>
+  <li>
+    HTML & CSS знала та використовувала раніше, тому просто освіжила знання. 
+  </li>
+</ol>
+
+![alt-текст](/task_html_css_intro/img1.jpg)
+
+![alt-текст](/task_html_css_intro/img2.jpg)
+
+![alt-текст](/task_html_css_intro/img3.jpg)
+
+</p>
+</details>
+
