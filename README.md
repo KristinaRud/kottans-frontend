@@ -107,7 +107,7 @@
     Використала HTML, CSS, Flexbox
   </li>
 </ol>
-[Demo](https://kristinarud.github.io/Hooli-style-Popup/)
+<h3><a href="https://kristinarud.github.io/Hooli-style-Popup/" rel="nofollow">Demo</a></h3>
 </p>
 </details>
 
