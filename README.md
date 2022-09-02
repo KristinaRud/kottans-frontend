@@ -100,3 +100,15 @@
 </p>
 </details>
 
+<h3>HTML and CSS practice: Hooli-style Popup</h3>
+<details><summary>CLICK ME</summary>
+<ol>
+  <li>
+    Використала HTML, CSS, Flexbox
+  </li>
+</ol>
+[Demo](https://kristinarud.github.io/Hooli-style-Popup/)
+</p>
+</details>
+
+
