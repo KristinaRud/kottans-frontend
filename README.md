@@ -59,11 +59,11 @@
     </li>
 </ol>
 
-![alt-текст](/task_git_collaboration/img1.png)
+![alt-текст](/task_git_collaboration/img1.PNG)
 
-![alt-текст](/task_git_collaboration/img2.png)
+![alt-текст](/task_git_collaboration/img2.PNG)
 
-![alt-текст](/task_git_collaboration/img3.png)
+![alt-текст](/task_git_collaboration/img3.PNG)
 
 ![alt-текст](/task_git_collaboration/img4.png)
 </p>
@@ -82,6 +82,20 @@
 ![alt-текст](/task_html_css_intro/img2.jpg)
 
 ![alt-текст](/task_html_css_intro/img3.jpg)
+</p>
+</details>
+
+<h3>Responsive Web Design</h3>
+<details><summary>CLICK ME</summary>
+<ol>
+  <li>
+    Flexbox та CSS Grid знала та використовувала раніше, тому просто освіжила знання. 
+  </li>
+</ol>
+
+![alt-текст](/task_responsive_web_design/flex.jpg)
+
+![alt-текст](/task_responsive_web_design/grid.jpg)
 
 </p>
 </details>
