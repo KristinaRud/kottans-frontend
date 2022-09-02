@@ -108,6 +108,7 @@
   </li>
 </ol>
 <h3><a href="https://kristinarud.github.io/Hooli-style-Popup/" rel="nofollow">Demo</a></h3>
+<h3><a href="https://github.com/KristinaRud/Hooli-style-Popup/tree/master" rel="nofollow">Code</a></h3>
 </p>
 </details>
 
